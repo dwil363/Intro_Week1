@@ -20,15 +20,19 @@
 - Unix Filesystem
 	- [Filesystem overview](https://github.com/FoundCompBio-Spr24/Intro_Week1/blob/main/Filesystems.md)
  	- The Unix root (/)
-   		- The very base of the filesystem
+   		- The very base of the filesystem (think about it as if its a manilla folder and its holding everything after that)
 	- Absolute paths
-		- All absolute paths begin at the root- start with /
-	- Relative paths
-		- Don't start with /
-		- Working directories
+		- All absolute paths begin at the root- start with / (as if you gave someone's full address)
+	- Relative paths (depends on where you are right now)
+		- Don't start with / !!!!
+		- Working directories- every time you are logged in to your computer you are using a working directory; relative paths are relative to whatever your working directory is 
 		- Shortcuts for current and parent directories
 	- Hidden files and folders
 		- Names begin with `.`
+ 		- "~" is home directory
+     		- "cd" changes directory
+   		- ".." means going backwards one directory
+       		-"ls" lists the contents of the directory
 		- Usually used for configuration files
 
 - [Practical Computing Tips](https://github.com/FoundCompBio-Spr24/Intro_Week1/blob/main/ComputingTips.md)
