@@ -12,10 +12,10 @@
   - Linux
 
 - Some fundamentals
-  - Memory (RAM)
-  - File storage (hard drives)
-  - CPU
-  - GPU
+  - Memory (RAM)- information loaded to chips on computer to write information quickly; cannot save everything from laptop
+  - File storage (hard drives)- slower to access and slower to read to
+  - CPU- Central processing unit 
+  - GPU- Graphical processing unit
 
 - Unix Filesystem
 	- [Filesystem overview](https://github.com/FoundCompBio-Spr24/Intro_Week1/blob/main/Filesystems.md)
